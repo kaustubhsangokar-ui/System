@@ -1,0 +1,24 @@
+{
+  "short_name": "The System",
+  "name": "The System - RPG Growth Tracker",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#020617",
+  "theme_color": "#020617",
+  "display": "standalone",
+  "orientation": "portrait",
+  "description": "Level up your life with RPG stats, quests, habits, and progress tracking."
+}

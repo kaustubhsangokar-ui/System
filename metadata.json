@@ -1,0 +1,6 @@
+{
+  "name": "The System - RPG Growth Tracker",
+  "description": "A personal self-improvement tracking application with RPG progression mechanics, stats, quests, skills, and progress analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
